@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Testing Html FUCK OUY</title>
+	<!-- Don't change the titles please -->
+    <title>Testing Html</title>
 </head>
 
 <body>
